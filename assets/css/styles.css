@@ -63,6 +63,10 @@ body {
 	background-color: #18181b; /* Black for State */
 }
 
+.banner.reflection, .badge-tag.reflection {
+	background-color: #f59e0b; /* Amber for Reflection */
+}
+
 .card-body {
 	padding: 32px 28px;
 }
