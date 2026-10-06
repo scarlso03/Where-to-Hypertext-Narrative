@@ -52,19 +52,19 @@ body {
 }
 
 .banner.intro, .badge-tag.intro {
-	background-color: #3b82f6; /* Blue for Introduction */
+	background-color: #3b82f6;
 }
 
 .banner.local, .badge-tag.local {
-	background-color: #10b981; /* Green for Local */
+	background-color: #10b981; 
 }
 
 .banner.state, .badge-tag.state {
-	background-color: #18181b; /* Black for State */
+	background-color: #18181b; 
 }
 
 .banner.reflection, .badge-tag.reflection {
-	background-color: #f59e0b; /* Amber for Reflection */
+	background-color: #f59e0b; 
 }
 
 .card-body {
